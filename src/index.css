@@ -205,7 +205,7 @@ button:focus-visible {
         rgba(10, 5, 8, 0.28),
         rgba(26, 14, 20, 0.38)
     ),
-    url("assets/hero.jpg");
+    url("./assets/hero.jpg");
 
     background-size: cover;
     background-position: center;
@@ -217,7 +217,7 @@ button:focus-visible {
         rgba(255, 248, 242, 0.28),
         rgba(253, 246, 240, 0.38)
     ),
-    url("assets/hero-light.jpg");
+    url("./assets/hero-light.jpg");
 
     background-size: cover;
     background-position: center;
